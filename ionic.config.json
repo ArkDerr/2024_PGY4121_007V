@@ -1,0 +1,7 @@
+{
+  "name": "DUberOC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
